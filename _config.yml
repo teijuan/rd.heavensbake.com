@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: rd_heavensbake
-description: Permalinks
+title: Heavensbake Studios
+description: The haven of furry fantasies.
+baseurl: ""
+url: ""
+theme: minima
